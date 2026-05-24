@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:I[97367,["/my-reading/_next/static/chunks/01xlw8hd842-c.js","/my-reading/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 2:T135d,
 向笛第一次要求进她房间要敲门时，温岭正在厨房切西红柿。
@@ -68,5 +68,5 @@
 
 向笛洗了把脸，走出了房间。
 “温岭，我们谈谈。”
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"边界与留下"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"向笛第一次要求进她房间要敲门时，温岭正在厨房切西红柿。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fD-rRKySJQNIA0IAvQhqB"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"边界与留下"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"向笛第一次要求进她房间要敲门时，温岭正在厨房切西红柿。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4zkSK1MkphpwefR26Ysu3"}
 5:null

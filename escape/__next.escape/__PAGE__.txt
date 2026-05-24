@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/my-reading/_next/static/chunks/01xlw8hd842-c.js","/my-reading/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T313e,
 1
@@ -222,6 +222,6 @@
 他无聊的拿出了手机，一条热搜引起了他的兴趣——《一鸣惊人！〈无尽逃亡〉二代新作惊艳问世，硬核技术引发全网热议》。
 ‘据悉，近日经典手游《无尽逃亡》颁布全新升级版，一经颁布引起海内外玩家疯狂下载，至今为止全球下载量已突破24亿次。
 其跨越式技术革新迅速出圈，海内外玩家与行业从业者均为之惊叹。面对记者关于技术原理、升级思路的提问，研发团队表示核心技术属于保密范畴，暂无法对外披露相关信息。’
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"无尽逃亡"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"沈之玟拼命地向前狂奔着，左转，向右，向上跳，滑铲。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fD-rRKySJQNIA0IAvQhqB"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"无尽逃亡"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"沈之玟拼命地向前狂奔着，左转，向右，向上跳，滑铲。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4zkSK1MkphpwefR26Ysu3"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

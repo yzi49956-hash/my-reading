@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:I[97367,["/my-reading/_next/static/chunks/01xlw8hd842-c.js","/my-reading/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 2:Td33,
 天上的乌云压得很低很低，窗外的风咆哮着，吼叫着，似乎要席卷一切。
@@ -45,5 +45,5 @@
 失踪地点：谜图省黎嘉市陌路区
 特征描述：右脸脸颊中间有一颗痣。放学时和孩子爸爸搭乘公交时走失，失踪时扎着双马尾，还望看见的好心人及时与我们联系，必有重金答谢！
 联系电话：159xxxxxxxx
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"房间里的第二个人"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"天上的乌云压得很低很低，窗外的风咆哮着，吼叫着，似乎要席卷一切。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fD-rRKySJQNIA0IAvQhqB"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black text-neutral-100 px-8 py-20","children":["$","div",null,{"className":"max-w-3xl mx-auto","children":[["$","a",null,{"href":"/archive","className":"text-neutral-500 hover:text-white transition-colors text-sm","children":"← 返回目录"}],["$","div",null,{"className":"mt-16 mb-20","children":[["$","p",null,{"className":"text-neutral-500 tracking-[0.4em] uppercase text-xs mb-6","children":"SHORT STORY"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-light leading-tight mb-8","children":"房间里的第二个人"}],["$","div",null,{"className":"w-20 h-px bg-neutral-700 mb-8"}],["$","p",null,{"className":"text-neutral-400 text-lg leading-8","children":"天上的乌云压得很低很低，窗外的风咆哮着，吼叫着，似乎要席卷一切。"}]]}],["$","div",null,{"className":"text-[17px] leading-10 text-neutral-300 whitespace-pre-wrap","children":"$2"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4zkSK1MkphpwefR26Ysu3"}
 5:null
